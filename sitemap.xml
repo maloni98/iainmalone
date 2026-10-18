@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://index.html</loc>
-    <lastmod>2026-10-18T09:38:17.634Z</lastmod>
+    <loc>https://iainmalone.com/research.html</loc>
+    <lastmod>2026-10-18T10:22:14.105Z</lastmod>
   </url>
   <url>
-    <loc>https://about.html</loc>
+    <loc>https://iainmalone.com/about.html</loc>
     <lastmod>2026-10-18T09:38:17.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iainmalone.com/index.html</loc>
+    <lastmod>2026-10-18T09:38:17.634Z</lastmod>
   </url>
 </urlset>
