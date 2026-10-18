@@ -1,0 +1,10 @@
+---
+title: "Research"
+---
+
+This page is about my research interests and projects. It includes information on my current work, publications, and collaborations.
+
+## This is the heading
+
+- Research stuff
+

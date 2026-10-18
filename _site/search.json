@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This page is about my research interests and projects. It includes information on my current work, publications, and collaborations."
+  },
+  {
+    "objectID": "research.html#this-is-the",
+    "href": "research.html#this-is-the",
+    "title": "Research",
+    "section": "This is the",
+    "text": "This is the\n\nResearch stuff"
+  },
+  {
+    "objectID": "research.html#this-is-the-heading",
+    "href": "research.html#this-is-the-heading",
+    "title": "Research",
+    "section": "This is the heading",
+    "text": "This is the heading\n\nResearch stuff"
   }
 ]

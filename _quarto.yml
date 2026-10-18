@@ -3,12 +3,15 @@ project:
   resources: -CNAME
 
 website:
-  title: "iainmalone"
+  title: "Iain Malone"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
 
 format:
   html:
