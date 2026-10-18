@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "iainmalone",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This page is about my research interests and projects. It includes information on my current work, publications, and collaborations."
+  },
+  {
+    "objectID": "research.html#this-is-the-heading",
+    "href": "research.html#this-is-the-heading",
+    "title": "Research",
+    "section": "This is the heading",
+    "text": "This is the heading\n\nResearch stuff"
   },
   {
     "objectID": "about.html",
@@ -14,24 +21,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "iainmalone",
     "section": "",
-    "text": "This page is about my research interests and projects. It includes information on my current work, publications, and collaborations."
-  },
-  {
-    "objectID": "research.html#this-is-the",
-    "href": "research.html#this-is-the",
-    "title": "Research",
-    "section": "This is the",
-    "text": "This is the\n\nResearch stuff"
-  },
-  {
-    "objectID": "research.html#this-is-the-heading",
-    "href": "research.html#this-is-the-heading",
-    "title": "Research",
-    "section": "This is the heading",
-    "text": "This is the heading\n\nResearch stuff"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

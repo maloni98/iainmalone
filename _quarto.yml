@@ -5,19 +5,19 @@ project:
 website:
   title: "Iain Malone"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
+      - href: about.qmd
+        text: About
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
