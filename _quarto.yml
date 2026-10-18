@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: -CNAME
 
 website:
   title: "iainmalone"
