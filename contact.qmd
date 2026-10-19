@@ -9,9 +9,10 @@ Scientist and Electrochemical Engineer
 
 ::: {.column width="48%"}
 ## EPFL
+
 For collaborations, students and project matters.
 
-| [Group of Energy Materials](https://www.epfl.ch/labs/gem/){target="_blank"}
+| [Group of Energy Materials](https://www.epfl.ch/labs/gem/){target="_blank" rel="noopener"}
 | EPFL Valais Wallis
 | Rue de l'industrie 17
 | 1951 Sion, Switzerland
@@ -28,9 +29,9 @@ For collaborations, students and project matters.
 :::
 
 ::: {.column width="48%"}
-## Personal Enquiries
+## Personal enquiries
 
-For consulting, speaking and industry enquiries and anything outside my EPFL role.
+For consulting, speaking, industry enquiries and anything outside my EPFL role.
 
 **Email:** <span class="email" data-user="contact" data-domain="iainmalone.com">contact [at] iainmalone.com</span>
 :::
