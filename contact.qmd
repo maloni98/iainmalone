@@ -11,7 +11,7 @@ Scientist and Electrochemical Engineer
 ## EPFL
 For collaborations, students and project matters.
 
-| Group of Energy Materials
+| [Group of Energy Materials](https://www.epfl.ch/labs/gem/){target="_blank"}
 | EPFL Valais Wallis
 | Rue de l'industrie 17
 | 1951 Sion, Switzerland

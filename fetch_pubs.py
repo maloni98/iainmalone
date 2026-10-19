@@ -18,7 +18,7 @@ for group in r.json()["group"]:
 def fmt(a):
     name = f"{a.get('given','')} {a.get('family','')}".strip()
     if a.get("family", "").lower() == "malone" and a.get("given", "").lower().startswith("i"):
-        return f"<strong>{name}</strong>"
+        return f"<u>{name}</u>"
     return name
 
 
