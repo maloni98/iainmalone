@@ -10,6 +10,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: publications.qmd
+        text: Publications
       - href: about.qmd
         text: About
   page-footer:

@@ -1,5 +1,14 @@
-quarto preview                      # check changes locally (Ctrl+C to stop)
-git add .                           # stage changes
-git commit -m "Describe change"     # save a snapshot
-git push                            # back up source to GitHub
-quarto publish gh-pages             # render and publish to the live site
+# Useful commands
+    quarto preview                      # check changes locally (Ctrl+C to stop)
+    git add .                           # stage changes
+    git commit -m "Describe change"     # save a snapshot
+    git push                            # back up source to GitHub
+    quarto publish gh-pages             # render and publish to the live site
+
+# Whenever I have a new paper:
+    python fetch_pubs.py                # refresh publications.yml from ORCID
+    quarto preview                      # optional check
+    git add .
+    git commit -m "Update publications"
+    git push
+    quarto publish gh-pages

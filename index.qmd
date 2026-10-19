@@ -1,8 +1,8 @@
 ---
 title: "Dr Iain Malone"
-subtitle: "Electrochemical Engineer"
+subtitle: "Scientist and Electrochemical Engineer"
 about:
-  template: trestles
+  template: solana
   image: images/profile.jpg
   image-shape: rounded
   links:
@@ -17,9 +17,34 @@ about:
       href: https://scholar.google.com/citations?user=wtTb4pQAAAAJ&hl=en
 ---
 
-I'm an electrochemical engineer who develops new experimental techniques to reveal how clean energy devices work, and why they fail.
+::: {.lead}
+I develop new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies.
+:::
 
-- **Techniques:** custom experimental cells and measurements, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities
-- **Scope:** catalysts, membranes and full cells
-- **Applications:** water electrolysis and CO~2~ conversion
-- **Approach:** cross-disciplinary work between academia and industry, turning careful experiments into insights that help engineers build better technology
+::: {.tiles}
+
+::: {.tile}
+[Electrochemical Testing]{.tile-title}
+
+Full cell device testing of performance and durability.
+:::
+
+::: {.tile}
+[Operando Diagnostics]{.tile-title}
+
+Identifying the causes of degradation with operando imaging and electrochemical techniques.
+:::
+
+::: {.tile}
+[Method Development]{.tile-title}
+
+Developing new experimental techniques to address electrochemical research questions.
+:::
+
+::: {.tile}
+[Bridging Academia & Industry]{.tile-title}
+
+Collaborative research that moves from lab to application.
+:::
+
+:::

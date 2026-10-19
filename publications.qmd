@@ -1,0 +1,12 @@
+---
+title: "Selected Publications"
+listing:
+  contents: publications.yml
+  type: table
+  sort: "date desc"
+  date-format: "YYYY"
+  fields: [date, title, author, description]
+  field-display-names:
+    author: "Authors"
+    description: "Journal"
+---
