@@ -11,6 +11,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I am a scientist and electrochemical engineer who develops new experimental techniques to reveal how electrochemical devices work and why they fail, helping turn clean energy technologies into reliable, real-world solutions.\nI design custom experimental cells and measurement techniques, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities, that let me see what’s happening inside working devices. My work spans materials, devices and systems, including catalysts, membranes and full cells, and I’ve applied it to clean energy technologies such as water electrolysis and CO2 conversion. I enjoy solving problems that cross disciplines, working between academia and industry, and turning careful experiments into insights that help engineers build better technology."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Iain Malone",
+    "section": "",
+    "text": "I’m an electrochemical engineer who develops new experimental techniques to reveal how clean energy devices work, and why they fail.\n\nTechniques: custom experimental cells and measurements, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities\nScope: catalysts, membranes and full cells\nApplications: water electrolysis and CO2 conversion\nApproach: cross-disciplinary work between academia and industry, turning careful experiments into insights that help engineers build better technology"
   }
 ]

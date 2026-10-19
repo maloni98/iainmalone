@@ -1,5 +1,25 @@
 ---
-title: "Iain Malone"
+title: "Dr Iain Malone"
+subtitle: "Electrochemical Engineer"
+about:
+  template: trestles
+  image: images/profile.jpg
+  image-shape: rounded
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/iain-malone-97731b160/
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0001-6092-8298
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=wtTb4pQAAAAJ&hl=en
 ---
 
+I'm an electrochemical engineer who develops new experimental techniques to reveal how clean energy devices work, and why they fail.
 
+- **Techniques:** custom experimental cells and measurements, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities
+- **Scope:** catalysts, membranes and full cells
+- **Applications:** water electrolysis and CO~2~ conversion
+- **Approach:** cross-disciplinary work between academia and industry, turning careful experiments into insights that help engineers build better technology

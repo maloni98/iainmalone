@@ -3,7 +3,7 @@ project:
   resources: -CNAME
 
 website:
-  title: "Iain Malone"
+  title: "Iain Malone Research"
   navbar:
     right:
       - href: index.qmd
@@ -12,12 +12,22 @@ website:
         text: Research
       - href: about.qmd
         text: About
+  page-footer:
+    left: "© 2026 Iain Malone"
+    center: "Iain Malone Research"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/your-profile
+      - icon: person-badge
+        href: https://orcid.org/0000-0000-0000-0000
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=YOUR_ID
 
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: [flatly, custom-light.scss]
+      dark: [darkly, custom-dark.scss]
     respect-user-color-scheme: true
     css: styles.css
     toc: true
