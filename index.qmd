@@ -1,5 +1,6 @@
 ---
 title: "Dr Iain Malone"
+pagetitle: "Iain Malone Research"
 subtitle: "Scientist and Electrochemical Engineer"
 about:
   template: solana
