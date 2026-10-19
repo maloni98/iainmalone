@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-I am a scientist and electrochemical engineer who develops new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies.
-
-I design custom experimental cells and measurement techniques, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities, that let me see what’s happening inside working devices. My work spans materials, devices and systems, including catalysts, membranes and full cells, and I’ve applied it to clean energy technologies such as water electrolysis and CO2 conversion. I enjoy solving problems that cross disciplines, working between academia and industry, and turning careful experiments into insights that help engineers build better technology.

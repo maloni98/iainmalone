@@ -12,18 +12,20 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: about.qmd
-        text: About
+      - href: contact.qmd
+        text: Contact
   page-footer:
     left: "© 2026 Iain Malone"
     center: "Iain Malone Research"
     right:
+      - icon: envelope
+        href: contact.html
       - icon: linkedin
-        href: https://www.linkedin.com/in/your-profile
+        href: https://www.linkedin.com/in/iain-malone-97731b160/
       - icon: person-badge
-        href: https://orcid.org/0000-0000-0000-0000
+        href: https://orcid.org/0000-0001-6092-8298
       - icon: mortarboard
-        href: https://scholar.google.com/citations?user=YOUR_ID
+        href: https://scholar.google.com/citations?user=wtTb4pQAAAAJ&hl=en
 
 format:
   html:

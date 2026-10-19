@@ -1,0 +1,49 @@
+---
+title: "Contact"
+---
+
+**Dr Iain Malone**\
+Scientist and Electrochemical Engineer
+
+:::: {.columns}
+
+::: {.column width="48%"}
+## EPFL
+For collaborations, students and project matters.
+
+| Group of Energy Materials
+| EPFL Valais Wallis
+| Rue de l'industrie 17
+| 1951 Sion, Switzerland
+
+**Email:** <span class="email" data-user="iain.malone" data-domain="epfl.ch">iain.malone [at] epfl.ch</span>
+
+```{=html}
+<iframe src="https://www.openstreetmap.org/export/embed?bbox=7.360056638717652%2C46.22614873253704%2C7.363025844097138%2C46.22772781602359&amp;layer=mapnik&amp;marker=46.226938279958404%2C7.361541241407394" width="100%" height="300"
+  style="border:0; border-radius:0.5rem;" loading="lazy"></iframe>
+```
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+## Personal Enquiries
+
+For consulting, speaking and industry enquiries and anything outside my EPFL role.
+
+**Email:** <span class="email" data-user="contact" data-domain="iainmalone.com">contact [at] iainmalone.com</span>
+:::
+
+::::
+
+**Find me online:** [LinkedIn](https://www.linkedin.com/in/iain-malone-97731b160/) · [ORCID](https://orcid.org/0000-0001-6092-8298) · [Google Scholar](https://scholar.google.com/citations?user=wtTb4pQAAAAJ&hl=en)
+
+```{=html}
+<script>
+  document.querySelectorAll(".email").forEach(el => {
+    const addr = el.dataset.user + "@" + el.dataset.domain;
+    el.innerHTML = '<a href="mailto:' + addr + '">' + addr + '</a>';
+  });
+</script>
+```
