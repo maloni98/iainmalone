@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iainmalone.com/research.html</loc>
-    <lastmod>2026-10-18T11:13:38.970Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iainmalone.com/index.html</loc>
-    <lastmod>2026-10-19T20:19:46.929Z</lastmod>
-  </url>
-  <url>
     <loc>https://iainmalone.com/about.html</loc>
-    <lastmod>2026-10-19T20:03:03.031Z</lastmod>
+    <lastmod>2026-10-19T20:54:50.304Z</lastmod>
   </url>
   <url>
     <loc>https://iainmalone.com/publications.html</loc>
-    <lastmod>2026-10-19T20:39:14.524Z</lastmod>
+    <lastmod>2026-10-19T20:54:50.306Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iainmalone.com/index.html</loc>
+    <lastmod>2026-10-19T20:54:50.306Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iainmalone.com/research.html</loc>
+    <lastmod>2026-10-19T20:54:50.306Z</lastmod>
   </url>
 </urlset>
