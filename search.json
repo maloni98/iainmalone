@@ -7,17 +7,24 @@
     "text": "This page is about my research interests and projects. It includes information on my current work, publications, and collaborations."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a scientist and electrochemical engineer who develops new experimental techniques to reveal how electrochemical devices work and why they fail, helping turn clean energy technologies into reliable, real-world solutions.\nI design custom experimental cells and measurement techniques, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities, that let me see what’s happening inside working devices. My work spans materials, devices and systems, including catalysts, membranes and full cells, and I’ve applied it to clean energy technologies such as water electrolysis and CO2 conversion. I enjoy solving problems that cross disciplines, working between academia and industry, and turning careful experiments into insights that help engineers build better technology."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr Iain Malone",
     "section": "",
-    "text": "I’m an electrochemical engineer who develops new experimental techniques to reveal how clean energy devices work, and why they fail.\n\nTechniques: custom experimental cells and measurements, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities\nScope: catalysts, membranes and full cells\nApplications: water electrolysis and CO2 conversion\nApproach: cross-disciplinary work between academia and industry, turning careful experiments into insights that help engineers build better technology"
+    "text": "I develop new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies.\n\n\n\nElectrochemical Testing\nFull cell device testing of performance and durability.\n\n\nOperando Diagnostics\nIdentifying the causes of degradation with operando imaging and electrochemical techniques.\n\n\nMethod Development\nDeveloping new experimental techniques to address electrochemical research questions.\n\n\nBridging Academia & Industry\nCollaborative research that moves from lab to application."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a scientist and electrochemical engineer who develops new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies.\nI design custom experimental cells and measurement techniques, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities, that let me see what’s happening inside working devices. My work spans materials, devices and systems, including catalysts, membranes and full cells, and I’ve applied it to clean energy technologies such as water electrolysis and CO2 conversion. I enjoy solving problems that cross disciplines, working between academia and industry, and turning careful experiments into insights that help engineers build better technology."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Authors\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Journal\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthors\n\n\n\nJournal\n\n\n\n\n\n\n\n\n2026\n\n\nEvaluating the Validity of In Situ Reference Electrode Measurements in PEM and AEM Water Electrolysers\n\n\nIain Malone, Christopher M Zalitis, Michael Moore, Colleen Jackson, Alexander J E Rettie\n\n\nPreprint\n\n\n\n\n\n\n2025\n\n\nDeconvoluting Degradation Mechanisms in Anion Exchange Membrane Water Electrolysis Using Operando X‐ray Microtomography\n\n\nIain Malone, Seçil Ünsal, R. S. Young, Matthew P. Jones, Francesco Spanu, Shashidhara Marathe, Rhodri Jervis, Hugh G.C. Hamilton, Christopher M. Zalitis, Thomas S. Miller, Alexander J.E. Rettie\n\n\nAdvanced Energy Materials\n\n\n\n\n\n\n2025\n\n\nCharacterisation of mass transport in mesh-type flow-field based polymer electrolyte membrane water electrolysers by neutron imaging\n\n\nY. Wu, Y. Wen, I. Malone, A. Tengattini, L. Helfen, J. Johnstone-Hack, J. Majasan, Y. Li, Y. Han, Q. Li, W. Chen, A.J.E. Rettie, P.R. Shearing, D.J.L. Brett, R. Jervis\n\n\nJournal of Power Sources\n\n\n\n\n\n\n2024\n\n\nInvestigating the Effect of KOH Feed Concentration on a Stainless-Steel Anode Using a 3-Electrode Anion Exchange Water Electrolyser Cell Set-up\n\n\nIain Malone, Seçil Ünsal, Thomas Samuel Miller, Alex Rettie\n\n\nECS Meeting Abstracts\n\n\n\n\n\n\n2021\n\n\nA Comparison of Different Approaches to the Conversion of Carbon Dioxide into Useful Products: Part I\n\n\nAnnette Alcasabas, Peter R. Ellis, Iain Malone, Gareth Williams, Chris Zalitis\n\n\nJohnson Matthey Technology Review\n\n\n\n\n\n\n2021\n\n\nA Comparison of Different Approaches to the Conversion of Carbon Dioxide into Useful Products: Part II\n\n\nAnnette Alcasabas, Peter R. Ellis, Iain Malone, Gareth Williams, Chris Zalitis\n\n\nJohnson Matthey Technology Review\n\n\n\n\n\n\nNo matching items"
   }
 ]
