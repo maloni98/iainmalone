@@ -38,7 +38,7 @@ For consulting, speaking, industry enquiries and anything outside my EPFL role.
 
 ::::
 
-**Find me online:** [LinkedIn](https://www.linkedin.com/in/iain-malone-97731b160/) · [ORCID](https://orcid.org/0000-0001-6092-8298) · [Google Scholar](https://scholar.google.com/citations?user=wtTb4pQAAAAJ&hl=en)
+**Find me online:** [LinkedIn](https://www.linkedin.com/in/iain-malone-97731b160/) · [ORCID](https://orcid.org/0000-0001-6092-8298) · [Google Scholar](https://scholar.google.com/citations?user=wtTb4pQAAAAJ&hl=en) · [ChemRxiv](https://chemrxiv.org/authored-by/Malone/Iain)
 
 ```{=html}
 <script>

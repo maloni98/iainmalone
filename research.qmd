@@ -2,4 +2,31 @@
 title: "Research"
 ---
 
-This page is under construction, and I will be adding more content soon. Please check back later for updates on my research activities.
+I have seven years experience in electrochemical research with the last five specifically working on water electrolysis. I am most interested in anion exchange membrane (AEM) water electrolysers: an advanced water electrolysis technology that promises to significantly reduce the cost of green hydrogen production. My PhD focused on developing operando diagnostic techniques to better understand degradation in AEM systems.
+
+## Research Themes
+
+### Electrochemical Testing
+
+Full cell device testing of performance and durability.
+
+### Operando Diagnostics
+
+Identifying the causes of degradation with operando imaging and electrochemical techniques.
+
+### Method Development
+
+Developing new experimental techniques to address electrochemical research questions.
+
+### Bridging Academia & Industry
+
+Collaborative research that moves from lab to application.
+
+## Current Projects
+
+### Involvement in EU Research Projects
+
+- [HyPrAEM](https://hypraem-project.eu/): High-Pressure Anion Exchange Membrane electrolyzers for large-scale applications. [Cordis](https://cordis.europa.eu/project/id/101192442)
+- [ENDURION](https://www.endurion.eu/): Efficient and Durable Pressurised Anion Exchange Membrane Electrolyser with Novel Triple-Phase Boundary and Stack Designs. [Cordis](https://cordis.europa.eu/project/id/101192485)
+- [ANEMEL](https://anemel.eu/): Efficient hydrogen production from low-grade water sources using non-critical raw materials. [Cordis](https://cordis.europa.eu/project/id/101071111)
+- [ASTERISK](https://asteriskproject.eu/): Integrated process for seawater electrolysis using a PGM-free anion exchange membrane stack. [Cordis](https://cordis.europa.eu/project/id/101192454)

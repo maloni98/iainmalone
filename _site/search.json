@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "This page is under construction, and I will be adding more content soon. Please check back later for updates on my research activities."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dr Iain Malone",
-    "section": "",
-    "text": "I develop new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies.\n\n\n\nElectrochemical Testing\nFull cell device testing of performance and durability.\n\n\nOperando Diagnostics\nIdentifying the causes of degradation with operando imaging and electrochemical techniques.\n\n\nMethod Development\nDeveloping new experimental techniques to address electrochemical research questions.\n\n\nBridging Academia & Industry\nCollaborative research that moves from lab to application."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a scientist and electrochemical engineer who develops new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies.\nI design custom experimental cells and measurement techniques, from precise electrical diagnostics to 3D X-ray imaging at national synchrotron facilities, that let me see what’s happening inside working devices. My work spans materials, devices and systems, including catalysts, membranes and full cells, and I’ve applied it to clean energy technologies such as water electrolysis and CO2 conversion. I enjoy solving problems that cross disciplines, working between academia and industry, and turning careful experiments into insights that help engineers build better technology."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Selected Publications",
@@ -28,11 +7,25 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Authors\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Journal\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthors\n\n\n\nJournal\n\n\n\n\n\n\n\n\n2026\n\n\nEvaluating the Validity of In Situ Reference Electrode Measurements in PEM and AEM Water Electrolysers\n\n\nIain Malone, Christopher M Zalitis, Michael Moore, Colleen Jackson, Alexander J E Rettie\n\n\nPreprint\n\n\n\n\n\n\n2025\n\n\nDeconvoluting Degradation Mechanisms in Anion Exchange Membrane Water Electrolysis Using Operando X‐ray Microtomography\n\n\nIain Malone, Seçil Ünsal, R. S. Young, Matthew P. Jones, Francesco Spanu, Shashidhara Marathe, Rhodri Jervis, Hugh G.C. Hamilton, Christopher M. Zalitis, Thomas S. Miller, Alexander J.E. Rettie\n\n\nAdvanced Energy Materials\n\n\n\n\n\n\n2025\n\n\nCharacterisation of mass transport in mesh-type flow-field based polymer electrolyte membrane water electrolysers by neutron imaging\n\n\nY. Wu, Y. Wen, I. Malone, A. Tengattini, L. Helfen, J. Johnstone-Hack, J. Majasan, Y. Li, Y. Han, Q. Li, W. Chen, A.J.E. Rettie, P.R. Shearing, D.J.L. Brett, R. Jervis\n\n\nJournal of Power Sources\n\n\n\n\n\n\n2024\n\n\nInvestigating the Effect of KOH Feed Concentration on a Stainless-Steel Anode Using a 3-Electrode Anion Exchange Water Electrolyser Cell Set-up\n\n\nIain Malone, Seçil Ünsal, Thomas Samuel Miller, Alex Rettie\n\n\nECS Meeting Abstracts\n\n\n\n\n\n\n2021\n\n\nA Comparison of Different Approaches to the Conversion of Carbon Dioxide into Useful Products: Part I\n\n\nAnnette Alcasabas, Peter R. Ellis, Iain Malone, Gareth Williams, Chris Zalitis\n\n\nJohnson Matthey Technology Review\n\n\n\n\n\n\n2021\n\n\nA Comparison of Different Approaches to the Conversion of Carbon Dioxide into Useful Products: Part II\n\n\nAnnette Alcasabas, Peter R. Ellis, Iain Malone, Gareth Williams, Chris Zalitis\n\n\nJohnson Matthey Technology Review\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I have seven years experience in electrochemical research with the last five specifically working on water electrolysis. I am most interested in anion exchange membrane (AEM) water electrolysers: an advanced water electrolysis technology that promises to significantly reduce the cost of green hydrogen production. My PhD focused on developing operando diagnostic techniques to better understand degradation in AEM systems."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Iain Malone",
+    "section": "",
+    "text": "I develop new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Dr Iain Malone\nScientist and Electrochemical Engineer\nFind me online: LinkedIn · ORCID · Google Scholar"
+    "text": "Dr Iain Malone\nScientist and Electrochemical Engineer\nFind me online: LinkedIn · ORCID · Google Scholar · ChemRxiv"
   },
   {
     "objectID": "contact.html#epfl",
@@ -47,5 +40,47 @@
     "title": "Contact",
     "section": "Personal enquiries",
     "text": "Personal enquiries\nFor consulting, speaking, industry enquiries and anything outside my EPFL role.\nEmail: contact [at] iainmalone.com"
+  },
+  {
+    "objectID": "research.html#electrochemical-testing",
+    "href": "research.html#electrochemical-testing",
+    "title": "Research",
+    "section": "Electrochemical Testing",
+    "text": "Electrochemical Testing\nFull cell device testing of performance and durability."
+  },
+  {
+    "objectID": "research.html#operando-diagnostics",
+    "href": "research.html#operando-diagnostics",
+    "title": "Research",
+    "section": "Operando Diagnostics",
+    "text": "Operando Diagnostics\nIdentifying the causes of degradation with operando imaging and electrochemical techniques."
+  },
+  {
+    "objectID": "research.html#method-development",
+    "href": "research.html#method-development",
+    "title": "Research",
+    "section": "Method Development",
+    "text": "Method Development\nDeveloping new experimental techniques to address electrochemical research questions."
+  },
+  {
+    "objectID": "research.html#bridging-academia-industry",
+    "href": "research.html#bridging-academia-industry",
+    "title": "Research",
+    "section": "Bridging Academia & Industry",
+    "text": "Bridging Academia & Industry\nCollaborative research that moves from lab to application."
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "Research Themes",
+    "text": "Research Themes\n\nElectrochemical Testing\nFull cell device testing of performance and durability.\n\n\nOperando Diagnostics\nIdentifying the causes of degradation with operando imaging and electrochemical techniques.\n\n\nMethod Development\nDeveloping new experimental techniques to address electrochemical research questions.\n\n\nBridging Academia & Industry\nCollaborative research that moves from lab to application."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nInvolvement in EU Research Projects\n\nHyPrAEM: High-Pressure Anion Exchange Membrane electrolyzers for large-scale applications. Cordis\nENDURION: Efficient and Durable Pressurised Anion Exchange Membrane Electrolyser with Novel Triple-Phase Boundary and Stack Designs. Cordis\nANEMEL: Efficient hydrogen production from low-grade water sources using non-critical raw materials. Cordis\nASTERISK: Integrated process for seawater electrolysis using a PGM-free anion exchange membrane stack. Cordis"
   }
 ]

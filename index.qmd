@@ -3,7 +3,7 @@ title: "Dr Iain Malone"
 pagetitle: "Iain Malone Research"
 subtitle: "Scientist and Electrochemical Engineer"
 about:
-  template: solana
+  template: trestles
   image: images/profile.jpg
   image-shape: rounded
   links:
@@ -22,30 +22,3 @@ about:
 I develop new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies.
 :::
 
-::: {.tiles}
-
-::: {.tile}
-[Electrochemical Testing]{.tile-title}
-
-Full cell device testing of performance and durability.
-:::
-
-::: {.tile}
-[Operando Diagnostics]{.tile-title}
-
-Identifying the causes of degradation with operando imaging and electrochemical techniques.
-:::
-
-::: {.tile}
-[Method Development]{.tile-title}
-
-Developing new experimental techniques to address electrochemical research questions.
-:::
-
-::: {.tile}
-[Bridging Academia & Industry]{.tile-title}
-
-Collaborative research that moves from lab to application.
-:::
-
-:::
