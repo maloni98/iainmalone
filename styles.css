@@ -13,29 +13,6 @@
   font-weight: 500;
 }
 
-.tiles {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1rem;
-  margin-top: 2rem;
-}
-
-.tile {
-  padding: 1.1rem 1.2rem;
-  border: 1px solid rgba(128, 128, 128, 0.3);
-  border-radius: 0.5rem;
-  background: rgba(128, 128, 128, 0.06);
-}
-
-.tile p { margin: 0; font-size: 0.95rem; }
-
-.tile-title {
-  display: block;
-  font-weight: 700;
-  font-size: 1.05rem;
-  margin-bottom: 0.4rem;
-}
-
 .nav-footer {
   border-top: 1px solid rgba(128, 128, 128, 0.3);
 }
