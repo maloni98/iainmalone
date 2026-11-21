@@ -2,29 +2,47 @@
 title: "Research"
 ---
 
-I have seven years experience in electrochemical research with the last five specifically working on water electrolysis. I am most interested in anion exchange membrane (AEM) water electrolysers: an advanced water electrolysis technology that promises to significantly reduce the cost of green hydrogen production. My PhD focused on developing operando diagnostic techniques to better understand degradation in AEM systems.
+I'm motivated by the shift towards an electrified energy system that makes energy more affordable, secure and clean. Electrochemistry plays an exciting role in this shift, because it sits at the interface between renewable electricity and many of the processes we rely on, allowing more of our energy demand to be electrified, from batteries in electric vehicles to producing chemicals and metals. It also enables renewable electricity to be converted and stored as chemical energy vectors, such as hydrogen or feedstocks made from carbon dioxide. These extend the reach of wind and solar into parts of the economy that can't yet be electrified directly, like fertiliser production, long-duration energy storage, shipping and aviation.
+
+I have been working in electrochemical research since 2019, with the last five years specifically working on water electrolysis. I am most interested in anion exchange membrane (AEM) water electrolysers: an advanced water electrolysis technology that promises to significantly reduce the cost of green hydrogen production. My PhD focused on developing operando diagnostic techniques to better understand degradation in AEM systems.
 
 ## Research Themes
 
 ### Electrochemical Testing
 
-Full cell device testing of performance and durability.
+*Full-cell device testing of performance and durability.*
+
+* Testing and characterisation of AEM water electrolysers at cell and stack level across multiple EU projects at [EPFL - Group of Energy Materials](https://www.epfl.ch/labs/gem/).
+* Developed in-house testing capability at [UCL Electrochemical Innovation Lab](https://www.ucl.ac.uk/engineering/chemical-engineering/research/cross-disciplinary-centres/ucl-electrochemical-innovation-lab) and [Johnson Matthey](https://matthey.com/). This included commissioning new water electrolyser and carbon dioxide electrolyser test stands and fixtures.
 
 ### Operando Diagnostics
 
-Identifying the causes of degradation with operando imaging and electrochemical techniques.
+*Identifying the causes of degradation with operando imaging and electrochemical techniques.*
+
+* Developed an in situ reference electrode technique to separate anode and cathode measurements from the overall cell measurement in AEM and PEM water electrolysers.
+* Led a team to image membrane thinning in AEM electrolysers using lab-based and synchrotron X-ray microtomography at [Diamond Light Source I13-2](https://www.diamond.ac.uk/Instruments/Imaging-and-Microscopy/I13-2.html).
+* Led a team to study catalyst layer swelling, adhesion and contact in AEM electrolysers at the [ESRF ID19](https://www.esrf.fr/UsersAndScience/Experiments/ID19).
 
 ### Method Development
 
-Developing new experimental techniques to address electrochemical research questions.
+*Developing new experimental techniques to address electrochemical research questions.*
 
-### Bridging Academia & Industry
+* Developed a three-electrode electrolyser cell, using a COMSOL model to validate reference electrode placement in collaboration with Johnson Matthey.
+* Designed a miniature electrolyser cell for operando X-ray microtomography in collaboration with [Minor Detail](https://minor-detail.co.uk/).
 
-Collaborative research that moves from lab to application.
+[View publications](publications.qmd){.btn .btn-outline-primary}
+
+## Bridging Academia & Industry
+
+*Collaborative research that moves from lab to application.*
+
+* EPSRC Industrial CASE PhD in collaboration with Johnson Matthey, following two years as a research scientist there.
+* Advisor on AEM water electrolysis to the IEA Hydrogen Technology Collaboration Programme.
+* Co-organised the STFC Early Career Researcher Conference on Energy Storage and UCL Hydrogen Innovation Network events with each involving representatives from academia, industry and government.
 
 ## Current Projects
 
-### Involvement in EU Research Projects
+### Involvement in EU Research Projects at EPFL
 
 - [HyPrAEM](https://hypraem-project.eu/): High-Pressure Anion Exchange Membrane electrolyzers for large-scale applications. [Cordis](https://cordis.europa.eu/project/id/101192442)
 - [ENDURION](https://www.endurion.eu/): Efficient and Durable Pressurised Anion Exchange Membrane Electrolyser with Novel Triple-Phase Boundary and Stack Designs. [Cordis](https://cordis.europa.eu/project/id/101192485)

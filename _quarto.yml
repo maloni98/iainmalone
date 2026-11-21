@@ -35,6 +35,8 @@ format:
     respect-user-color-scheme: true
     css: styles.css
     toc: true
+    link-external-newwindow: true
+    link-external-icon: true
 
 
 

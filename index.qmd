@@ -19,6 +19,7 @@ about:
 ---
 
 ::: {.lead}
-I develop new experimental techniques to reveal how electrochemical devices work and why they fail, advancing the energy transition through research in energy storage and conversion technologies.
+I develop experimental techniques to understand how electrochemical devices work and why they fail, with a focus on energy storage and conversion technologies.
 :::
 
+[Learn more...](research.qmd){.btn .btn-primary}
