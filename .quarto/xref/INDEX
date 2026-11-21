@@ -13,5 +13,11 @@
   },
   "contact.qmd": {
     "contact.html": "4b297226"
+  },
+  "posts/operando-techniques/index.qmd": {
+    "index.html": "1cb4bd47"
+  },
+  "posts.qmd": {
+    "posts.html": "5eaf23e1"
   }
 }

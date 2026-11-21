@@ -12,6 +12,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: posts.qmd
+        text: Posts
       - href: contact.qmd
         text: Contact
   page-footer:

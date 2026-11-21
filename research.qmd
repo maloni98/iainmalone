@@ -37,14 +37,19 @@ I have been working in electrochemical research since 2019, with the last five y
 *Collaborative research that moves from lab to application.*
 
 * EPSRC Industrial CASE PhD in collaboration with Johnson Matthey, following two years as a research scientist there.
-* Advisor on AEM water electrolysis to the IEA Hydrogen Technology Collaboration Programme.
+* Advisor on AEM water electrolysis to the [IEA Hydrogen Technology Collaboration Programme](https://www.ieahydrogen.org/).
 * Co-organised the STFC Early Career Researcher Conference on Energy Storage and UCL Hydrogen Innovation Network events with each involving representatives from academia, industry and government.
 
-## Current Projects
+## Projects
 
-### Involvement in EU Research Projects at EPFL
+### Current EU Research Projects at EPFL
 
-- [HyPrAEM](https://hypraem-project.eu/): High-Pressure Anion Exchange Membrane electrolyzers for large-scale applications. [Cordis](https://cordis.europa.eu/project/id/101192442)
-- [ENDURION](https://www.endurion.eu/): Efficient and Durable Pressurised Anion Exchange Membrane Electrolyser with Novel Triple-Phase Boundary and Stack Designs. [Cordis](https://cordis.europa.eu/project/id/101192485)
-- [ANEMEL](https://anemel.eu/): Efficient hydrogen production from low-grade water sources using non-critical raw materials. [Cordis](https://cordis.europa.eu/project/id/101071111)
-- [ASTERISK](https://asteriskproject.eu/): Integrated process for seawater electrolysis using a PGM-free anion exchange membrane stack. [Cordis](https://cordis.europa.eu/project/id/101192454)
+* [HyPrAEM](https://hypraem-project.eu/): High-Pressure Anion Exchange Membrane electrolyzers for large-scale applications. [Cordis](https://cordis.europa.eu/project/id/101192442)
+* [ENDURION](https://www.endurion.eu/): Efficient and Durable Pressurised Anion Exchange Membrane Electrolyser with Novel Triple-Phase Boundary and Stack Designs. [Cordis](https://cordis.europa.eu/project/id/101192485)
+* [ANEMEL](https://anemel.eu/): Efficient hydrogen production from low-grade water sources using non-critical raw materials. [Cordis](https://cordis.europa.eu/project/id/101071111)
+* [ASTERISK](https://asteriskproject.eu/): Integrated process for seawater electrolysis using a PGM-free anion exchange membrane stack. [Cordis](https://cordis.europa.eu/project/id/101192454)
+
+### Past Projects
+
+#### Minature Electrolyser for Operando Micro-CT
+
