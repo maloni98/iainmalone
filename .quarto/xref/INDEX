@@ -19,5 +19,11 @@
   },
   "posts.qmd": {
     "posts.html": "5eaf23e1"
+  },
+  "ideas.qmd": {
+    "ideas.html": "e13593bd"
+  },
+  "ideas/operando-techniques/index.qmd": {
+    "index.html": "5b59aef2"
   }
 }
